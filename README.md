@@ -1,4 +1,3 @@
-# Smart-Store-Management-System
 Project Overview
 
 The Smart Store Management System is a Python-based application designed to simplify store operations. It helps manage product details, maintain stock levels, process customer purchases, calculate total bills, and record sales history.
@@ -13,7 +12,6 @@ Features
 
 Technologies Used
 Python
-streamlit and pandas
 Visual Studio Code
 Git and GitHub
 
